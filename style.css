@@ -440,7 +440,7 @@ header h2 {
   width: 50%;
 }
 .benefits:before {
-  border: 1px solid #FFFFFF;
+  border: 0px solid #FFFFFF;
   content: '';
   display: block;
   height: 0px;
@@ -505,7 +505,7 @@ header h2 {
   width: 55%;
 }
 .requirements:before {
-  border: 1px solid #FFFFFF;
+  border: 0px solid #FFFFFF;
   content: '';
   display: block;
   height: 0px;
