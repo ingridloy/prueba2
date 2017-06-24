@@ -288,7 +288,7 @@ aside:after {
 header {
   margin: 0 auto;
   max-width: 1040px;
-  position: relative;
+  position: center;
   text-align: center;
   top: 0;
   width: 100%;
