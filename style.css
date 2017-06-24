@@ -42,14 +42,15 @@ fieldset {
 }
 body {
   color: #0f2a36;
-  font-family: 'Open Sans', Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:  Myriad, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.25em;
 }
 h1 {
   color: #692A4E;
-  font-family: 'Adelle W01 Bold', 'Arvo', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-family: Georgia, serif;
   font-size: 91px;
+  font-style: strong;
   font-weight: 500;
 }
 h2 {
@@ -60,7 +61,8 @@ h2 {
 }
 h3 {
   color: #692A4E;
-  font-family: 'Adelle W01 Bold', 'Arvo', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-family: Georgia, serif;
+  font-style: strong;
   font-size: 40px;
   font-weight: 500;
   line-height: 1.25em;
